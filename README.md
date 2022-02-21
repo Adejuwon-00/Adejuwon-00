@@ -1,4 +1,4 @@
-# Hi, I am Adejuwon 
+# Hi, I am Ojurongbe Adejuwon 
 
 ![Adejuwon](https://github.com/Adejuwon-00/Adejuwon-00/blob/main/a7d568f4-9774-44b2-9ad8-93a1054d399a--300h.png)
 
