@@ -6,7 +6,7 @@ I'm a Frontend engineer who is passionate about making open-source contributions
 
 Skills: JavaScript, ReactJS, ReactNative, Storybook.js and WebFlow
 
-- 🔭 I’m working on cooking cool stuff👨‍🍳 but not in the kitchen :)
+- 🔭 I’m cooking cool stuff👨‍🍳 but not in the kitchen :)
 - 🌱 I’m currently learning ReactNative 
 - 👯 I’m looking to collaborate on Open Source projects 
 - 💬 Ask me about Anything JavaScript 
