@@ -1,5 +1,7 @@
 # Hi, I am Adejuwon 
 
+![Adejuwon](https://github.com/Adejuwon-00/Adejuwon-00/blob/main/2f7ec4c0-250b-4696-bcb5-88f6ff38bf07--300h.png)
+
 I'm a software engineer who is passionate about making open-source contributions more accessible, developing solutions that scale businesses, and at the same time fostering community.
 
 Skills: JavaScript, ReactJS, ReactNative, Storybook.js and WebFlow
