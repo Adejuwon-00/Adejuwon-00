@@ -1,6 +1,6 @@
 # Hi, I am Adejuwon 
 
-![Adejuwon](https://github.com/Adejuwon-00/Adejuwon-00/blob/main/2f7ec4c0-250b-4696-bcb5-88f6ff38bf07--300h.png)
+![Adejuwon](https://github.com/Adejuwon-00/Adejuwon-00/blob/main/a7d568f4-9774-44b2-9ad8-93a1054d399a--300h.png)
 
 I'm a software engineer who is passionate about making open-source contributions more accessible, developing solutions that scale businesses, and at the same time fostering community.
 
