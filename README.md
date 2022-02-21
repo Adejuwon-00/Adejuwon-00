@@ -2,7 +2,7 @@
 
 ![Adejuwon](https://github.com/Adejuwon-00/Adejuwon-00/blob/main/a7d568f4-9774-44b2-9ad8-93a1054d399a--300h.png)
 
-I'm a software engineer who is passionate about making open-source contributions more accessible, developing solutions that scale businesses, and at the same time fostering community.
+I'm a Frontend engineer who is passionate about making open-source contributions more accessible, developing solutions that scale businesses, and at the same time fostering community.
 
 Skills: JavaScript, ReactJS, ReactNative, Storybook.js and WebFlow
 
