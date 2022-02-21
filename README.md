@@ -20,4 +20,3 @@ Find me around the web 🌎:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adejuwon-00)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/Adejuwon-00)  
