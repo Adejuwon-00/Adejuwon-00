@@ -9,7 +9,7 @@ Skills: JavaScript, ReactJS, ReactNative, TypeScript, Storybook.js and WebFlow
 - 🔭 I’m cooking cool stuff👨‍🍳 but not in the kitchen :)
 - 🌱 I’m currently learning ReactNative 
 - 👯 I’m looking to collaborate on Open Source projects 
-- 💬 Ask me about Anything JavaScript 
+- 💬 Ask me about anything JavaScript 
 - 📫 Kindly reachout at: juwonmcalpha@gmail.com 
 - ⚡ Fun fact: You can add a new folder and file at the same time in VSCode by clicking 'Add new file' and typing components/Buttons.js(as folder and file name path) in the name field. Cool right?! 
 
