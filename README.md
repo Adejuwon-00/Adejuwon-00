@@ -4,7 +4,7 @@
 
 I'm a Frontend engineer who is passionate about making open-source contributions more accessible, developing solutions that scale businesses, and at the same time fostering community.
 
-Skills: JavaScript, ReactJS, ReactNative, StyledComponents, NextJS, TypeScript, Tailwind, Storybook.js and WebFlow
+Skills: JavaScript, ReactJS, ReactNative, StyledComponents, NextJS, TypeScript, Tailwind, StorybookJS and WebFlow
 
 - 🔭 I’m cooking cool stuff👨‍🍳 but not in the kitchen :)
 - 🌱 I’m currently learning ReactNative 
