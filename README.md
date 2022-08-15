@@ -4,10 +4,10 @@
 
 I'm a Frontend engineer who is passionate about making open-source contributions more accessible, developing solutions that scale businesses, and at the same time fostering community.
 
-Skills: JavaScript, ReactJS, ReactNative, StyledComponents, NextJS, TypeScript, Tailwind, StorybookJS and WebFlow
+Skills: JavaScript, ReactJS, Ruby on Rails, StyledComponents, NextJS, TypeScript, Tailwind, StorybookJS and WebFlow
 
 - 🔭 I’m cooking cool stuff👨‍🍳 but not in the kitchen :)
-- 🌱 I’m currently learning ReactNative 
+- 🌱 I’m currently learning Ruby on Rails 
 - 👯 I’m looking to collaborate on Open Source projects 
 - 💬 Ask me about anything JavaScript 
 - 📫 Kindly reachout at: juwonmcalpha@gmail.com 
